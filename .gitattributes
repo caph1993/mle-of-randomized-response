@@ -1,0 +1,2 @@
+mle_vs_inv_python/data/*.csv filter=lfs diff=lfs merge=lfs -text
+mle_vs_inv_python/data/*.txt filter=lfs diff=lfs merge=lfs -text

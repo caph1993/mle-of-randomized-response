@@ -1,4 +1,4 @@
 
 # results # Enabled for reviewers
 __pycache__/
-data/
+# data/ # Using LFS for data files
