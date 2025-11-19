@@ -1,10 +1,10 @@
-# Anonymous repository
+# Estimating the True Distribution of Data Collected with Randomized Response
 
-This is an anonymous repository for reproducibility of the experiments in the paper titled
+This is the public repository of the paper titled *Estimating the True Distribution of Data Collected with Randomized Response* which was accepted at AAAI 2026.
 
-    "Estimating the True Distribution of Data Collected with Randomized Response"
-
-which was submitted to AAAI 2026.
+This repository contains:
+- A [Python notebook](mle_vs_inv_python/MLE_RR_Experiments.ipynb) and a [C++ script](mle_vs_ibu_cpp/exec_script.sh) which can be used to reproduce all the experiments and figures in the paper.
+- One [additional notebook](mle_vs_inv_python/MLE_RR_Experiments_update.ipynb) that decomposes MSE into bias and variance, as requested by several reviewers. This decomposition shows that the bias of MLE* seems to be bounded between that of INV-P and INV-N, just like the MSE.
 
 # Usage
 
