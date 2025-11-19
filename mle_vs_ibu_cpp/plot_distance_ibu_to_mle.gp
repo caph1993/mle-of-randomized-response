@@ -1,5 +1,6 @@
 # This plots the distance from an ibu estimate to the mle expression
 
+set terminal epscairo font "Times,12"
 set terminal pdf linewidth 2  
 set lmargin 11      
 
