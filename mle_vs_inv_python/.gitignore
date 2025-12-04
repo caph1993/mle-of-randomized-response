@@ -2,3 +2,5 @@
 # results # Enabled for reviewers
 __pycache__/
 # data/ # Using LFS for data files
+
+results/*.joblib
