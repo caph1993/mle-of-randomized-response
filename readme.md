@@ -1,6 +1,6 @@
 # Estimating the True Distribution of Data Collected with Randomized Response
 
-This is the public repository of the paper titled *[Estimating the True Distribution of Data Collected with Randomized Response](https://arxiv.org/submit/7158266/view)* which was accepted at AAAI 2026.
+This is the public repository of the paper titled *[Estimating the True Distribution of Data Collected with Randomized Response](https://arxiv.org/abs/2601.08603)* which was accepted at AAAI 2026.
 
 This repository contains:
 - A [Python notebook](mle_vs_inv_python/MLE_RR_Experiments.ipynb) and a [C++ script](mle_vs_ibu_cpp/exec_script.sh) which can be used to reproduce all the experiments and figures in the paper.
